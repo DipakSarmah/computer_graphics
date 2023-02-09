@@ -1,0 +1,4 @@
+
+to run a program we need to draw a 
+g++ main.c -lglut -lGL -lGLEW -lGLU -o OpenGLExample
+
